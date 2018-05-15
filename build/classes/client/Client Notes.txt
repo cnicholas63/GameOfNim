@@ -1,0 +1,14 @@
+NimClient Notes:
+
+Instantiate Nim Client
+Get Player information
+Construct Player
+Bind to NimServerLobby <- Player now waiting for game
+
+When game starts
+    Allow server to interact with player
+    
+
+
+    
+    

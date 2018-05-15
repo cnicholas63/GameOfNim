@@ -1,0 +1,9 @@
+Game of Nim
+Christopher Nicholas
+22489355
+
+To launch the server, please:
+1) NimServerLobby from within the server package
+
+To Launch the client, please:
+1) NimClient from the client package
